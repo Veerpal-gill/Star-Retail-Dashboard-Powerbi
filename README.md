@@ -47,7 +47,8 @@ This dashboard enables retail teams to monitor performance, spot sales opportuni
 ---
 
 ## Screenshot
-<img width="1155" height="657" alt="Regional Bussines sales dashboard" src="https://github.com/user-attachments/assets/0140b9a0-0cfe-4416-a76e-8b418e852dff" />
+https://github.com/Veerpal-gill/Star-Retail-Dashboard-Powerbi/blob/5f5dba09abb377fdea686430f81d624aeb05b9db/Star%20Retail%20Dashboard.png
+
 
 ##  Authors & Contact
 veerpal Gill
