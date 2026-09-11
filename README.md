@@ -47,7 +47,7 @@ This dashboard enables retail teams to monitor performance, spot sales opportuni
 ---
 
 ## Screenshot
-https://github.com/Veerpal-gill/Star-Retail-Dashboard-Powerbi/blob/5f5dba09abb377fdea686430f81d624aeb05b9db/Star%20Retail%20Dashboard.png
+![imge-alt](https://github.com/Veerpal-gill/Star-Retail-Dashboard-Powerbi/blob/ac2ebb0bb49ad141fa27b7b81b0460852e8f1834/Star%20Retail%20Dashboard.png)
 
 
 ##  Authors & Contact
