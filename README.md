@@ -53,7 +53,7 @@ This dashboard enables retail teams to monitor performance, spot sales opportuni
 ##  Authors & Contact
 veerpal Gill
 
-Data Analyst
+Aspiring Data Analyst
 
 Email veerpalgill963@gmail.com
 
